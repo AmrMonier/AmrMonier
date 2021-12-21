@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/github-banner.png)
+![banner.png](./images/AmrMonier-banner.png)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -10,12 +10,20 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![background.png](./images/github-back.jpg)
+<h1 align="center">You can find me</h1>  
+
+  [![Gmail](https://img.shields.io/badge/Mail:a.monier2107@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.monier2107@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instgram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amr.monier/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-monier-184b4b168/)
+  [![Twitter](https://img.shields.io/badge/@amr_monier-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amr_monier)
 
 
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- ----------- TECH STACK SECTION ------------ -->
-<p style="text-align: center">
-  
+<p style="text-align: center" align="center">
+
+<h1 align="center">My Crafting Tools</h1>  
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,21 +47,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </p>
 
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <p align="left">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrMonier&show_icons=true&count_private=true&theme=react" />
-<p align="right"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AmrMonier&theme=react" /> 
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrMonier&show_icons=true&count_private=true&theme=react" /> </p>
+<p align="right"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AmrMonier&theme=react" />  </p>
 
 [![Amr Monier's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AmrMonier&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-# Hi, I'm Amr Monier 👋 a 23 year-old Full Stack Developer
 
-- 👀 I’m interested in web development, Cognitive science and specially Augmented Reality
-- 🌱 I’m currently learning NodeJS, Vuejs and Front-End tricks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-  - a.monier2107@gmail.com
-  - (+20) 010-272-000-70
 
 
 <!---
