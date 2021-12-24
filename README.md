@@ -54,7 +54,7 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrMonier&show_icons=true&count_private=true&theme=react" /> </p>
 <p align="right"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AmrMonier&theme=react" />  </p>
 
-[![Amr Monier's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AmrMonier&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amr Monier's GitHub activity graph](https://monier-activity.herokuapp.com/graph?username=AmrMonier&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
