@@ -37,7 +37,12 @@
 <p align="right"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AmrMonier&theme=react" />  </p>
 
 [![Amr Monier's GitHub activity graph](https://monier-activity.herokuapp.com/graph?username=AmrMonier&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 🏆 GitHub Trophies
+<div align="center">
 
+![](https://github-profile-trophy.vercel.app/?username=AmrMonier&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=3)
+
+</div>
 
 
 <!---
