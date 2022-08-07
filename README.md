@@ -32,9 +32,18 @@
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<p align="left">
+<!-- <p align="left">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrMonier&show_icons=true&count_private=true&theme=react" /> </p>
-<p align="right"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AmrMonier&theme=react" />  </p>
+<p align="right"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AmrMonier&theme=react" />  </p> -->
+<h1 align="center">Github Stats</h1>
+<!-- GITHUB STATS -->
+  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrMonier&show_icons=true&count_private=true&theme=react" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrMonier&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| ------------- | ------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrMonier&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmrMonier&theme=github_dark) |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmrMonier&theme=github_dark)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmrMonier&theme=github_dark)|
+
+<!-- ------------------------------- -->
 
 [![Amr Monier's GitHub activity graph](https://monier-activity.herokuapp.com/graph?username=AmrMonier&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # 🏆 GitHub Trophies
