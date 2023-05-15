@@ -1,4 +1,4 @@
-<!-- ----------- HEAD SECTION ------------ -->
+<!-- ----------- HEAD SECTION [header] ------------ -->
 
 ![banner.png](./images/AmrMonier-banner.png)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
