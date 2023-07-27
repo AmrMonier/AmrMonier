@@ -45,7 +45,8 @@
 
 <!-- ------------------------------- -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmrMonier&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmrMonier&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
 # 🏆 GitHub Trophies
 <div align="center">
 
