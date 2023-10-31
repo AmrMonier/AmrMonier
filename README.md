@@ -12,7 +12,7 @@
 
 <h1 align="center">You can find me</h1>  
 
-  [![Gmail](https://img.shields.io/badge/Mail:a.monier2107@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.monier2107@gmail.com)  [![Instagram](https://img.shields.io/badge/Instgram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amr.monier/)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-monier-184b4b168/)  [![Twitter](https://img.shields.io/badge/@amr_monier-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amr_monier)
+  [![Gmail](https://img.shields.io/badge/Mail:iam@amrmonier.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam@amrmonier.com)  [![Instagram](https://img.shields.io/badge/Instgram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amr.monier/)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-monier-184b4b168/)  [![Twitter](https://img.shields.io/badge/@amr_monier-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amr_monier)
 
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
